@@ -42,9 +42,3 @@ python app.py
 
 Ensure your MRI classification model is available and correctly linked in the scan upload section.
 
-
-
-Contributors- 
-https://github.com/KritiC04
-
-Aur apna Got hub link daal dena
