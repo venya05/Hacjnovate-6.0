@@ -26,19 +26,8 @@ git clone https://github.com/your-username/autism-care.git
 cd autism-care
 
 
-2. Install Dependencies
-Make sure you have Python 3.8+ installed. Then run:
 
-pip install -r requirements.txt
-
-
-3. Run the Application
-Launch the Gradio web app:
-
-python app.py
-
-
-4. Additional Setup
+2. Additional Setup
 
 Ensure your MRI classification model is available and correctly linked in the scan upload section.
 
