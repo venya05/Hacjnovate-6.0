@@ -3,7 +3,7 @@ Project Description:
 Autism Care is an AI-powered web platform designed to assist individuals by offering early detection, awareness, and personalized therapy related to autism. By combining neuroimaging-based analysis, AI-driven interactions, and decentralized infrastructure, the platform provides users with accessible, private, and effective tools for support.
 
 Project demo : 
-https://youtu.be/DbUrQDtyIVQ
+[https://youtu.be/DbUrQDtyIVQ](https://youtu.be/PlLb6wlvhBk)
 
 Features: 
 MRI-Based Detection: Users can upload their structural MRI scans to receive insights through a binary classification model that predicts the likelihood of autism. This feature promotes data-driven evaluation, complementing traditional behavioral assessments.
