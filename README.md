@@ -14,7 +14,7 @@ Online Therapy: A dynamic questionnaire-driven module that uses Agent.AI to gene
 
 Results :
 1) online therapy
-2)Take test 
+2)  Take test 
 3) ask Anything
 4) Autism Detection through sMRI analysis
 
